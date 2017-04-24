@@ -1,4 +1,4 @@
-'use strcit';
+'use strict';
 
 const assert = require('assert');
 const Transform = require('stream').Transform;
